@@ -1,0 +1,7 @@
+﻿  List.cpp
+  Node.cpp
+  Source.cpp
+C:\Users\User\OneDrive - Bar-Ilan University\Documents\אוניברסיטה\סמסטר ג\תכנות מונחה עצמים\newList\newList 28-12-2021\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Student.cpp
+  Generating Code...
+  newList 28-12-2021.vcxproj -> C:\Users\User\OneDrive - Bar-Ilan University\Documents\אוניברסיטה\סמסטר ג\תכנות מונחה עצמים\newList\Debug\newList 28-12-2021.exe

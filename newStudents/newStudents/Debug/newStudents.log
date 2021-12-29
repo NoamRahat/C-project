@@ -1,0 +1,5 @@
+﻿  Classroom.cpp
+  Source.cpp
+C:\Users\User\Desktop\newStudents\newStudents\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  newStudents.vcxproj -> C:\Users\User\Desktop\newStudents\Debug\newStudents.exe
