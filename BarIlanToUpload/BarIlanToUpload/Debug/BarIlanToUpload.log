@@ -1,0 +1,12 @@
+﻿  Animal.cpp
+  Butterfly.cpp
+  Horse.cpp
+  Insect.cpp
+  Lion.cpp
+  Mammel.cpp
+  Source.cpp
+C:\Users\User\Downloads\BarIlanToUpload (3)\BarIlanToUpload\BarIlanToUpload\BarIlanToUpload\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tiger.cpp
+  Zoo.cpp
+  Generating Code...
+  BarIlanToUpload.vcxproj -> C:\Users\User\Downloads\BarIlanToUpload (3)\BarIlanToUpload\BarIlanToUpload\Debug\BarIlanToUpload.exe
